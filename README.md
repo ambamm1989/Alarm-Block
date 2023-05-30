@@ -44,8 +44,19 @@ Create Alarm
 3. Build and run the app on the iOS Simulator or a physical device.
 
 ## Usage
+1. Clone the repository:
+    ```
+    git clone https://github.com/your-username/your-repo.git
+2. Open the Xcode project file (AlarmBlock.xcodeproj) in Xcode.
+3. Build and run the app in the iOS Simulator or on a physical device.
+4. The app will launch and display a list of saved alarms.
+5. To add a new alarm, tap on the "Add" button in the navigation bar.
+6. Fill in the alarm details, including title, description, start time, end time, and notification messages.
+7. Tap "Save Alarm" to save the alarm.
+8. The alarm will be added to the list of saved alarms and scheduled notifications will be set for the specified start and end times.
+9. To edit or delete an existing alarm, swipe left on the alarm in the list and tap the corresponding action.
+10. Enjoy managing your alarms with Alarm Block!
 
-[Provide instructions on how to use your app and any important usage details]
 
 ## Contributing
 
@@ -53,7 +64,7 @@ Contributions to Alarm Block are welcome! If you find any bugs or have suggestio
 
 ## License
 
-[Specify the license under which your app is distributed]
+MIT License
 
 ## Acknowledgements
 
