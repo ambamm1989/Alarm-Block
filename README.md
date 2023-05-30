@@ -44,9 +44,11 @@ Create Alarm
 3. Build and run the app on the iOS Simulator or a physical device.
 
 ## Usage
+
 1. Clone the repository:
     ```
     git clone https://github.com/your-username/your-repo.git
+    ```
 2. Open the Xcode project file (AlarmBlock.xcodeproj) in Xcode.
 3. Build and run the app in the iOS Simulator or on a physical device.
 4. The app will launch and display a list of saved alarms.
