@@ -13,8 +13,16 @@ Alarm Block is a simple alarm management app that allows you to create, edit, an
 - Preset alarm options for common use cases.
 
 ## Screenshots
+Saved Alarms                                  
 
-[Add screenshots or demo GIFs of your app here]
+<img src="https://i.imgur.com/vp89okF.png" alt="Saved Alarms" width="100" height="200">
+
+Create Alarm
+
+<img src="https://i.imgur.com/IFMvLJo.png" alt="Description" width="100" height="200">
+
+
+
 
 ## Technologies Used
 
