@@ -1,56 +1,67 @@
 {
   "images" : [
     {
+      "filename" : "2D003186-E0F7-43B8-AEF8-BD1F55F2041C.jpeg",
       "idiom" : "universal",
       "platform" : "ios",
       "size" : "1024x1024"
     },
     {
+      "filename" : "EE65AA54-D91F-4D41-869C-64D848DEDEA2_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "16x16"
     },
     {
+      "filename" : "C4C8D1D4-02DD-4EFD-8C68-179500C57A69_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "16x16"
     },
     {
+      "filename" : "C4C8D1D4-02DD-4EFD-8C68-179500C57A69_4_5005_c 1.jpeg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "32x32"
     },
     {
+      "filename" : "5797423E-AAD4-47C3-9D2F-89227F00C5EA_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "32x32"
     },
     {
+      "filename" : "0990CEB9-0B91-45BC-93F4-0B9DD19B3213_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "128x128"
     },
     {
+      "filename" : "9F6AEBE4-893F-45A4-8FF3-B48F74A1AECF_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "128x128"
     },
     {
+      "filename" : "3F89E4A3-78C6-40C6-B9A3-21D27A41B39F_4_5005_c.jpeg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "256x256"
     },
     {
+      "filename" : "2741140A-6BD7-4D7C-8D5B-8DDB7FDE5D6A.jpeg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "256x256"
     },
     {
+      "filename" : "525B9E90-2DF4-4076-A60A-8B742B734001.jpeg",
       "idiom" : "mac",
       "scale" : "1x",
       "size" : "512x512"
     },
     {
+      "filename" : "47F87C78-6BD2-4E1B-8F8A-B8C4C33E3B81.jpeg",
       "idiom" : "mac",
       "scale" : "2x",
       "size" : "512x512"
