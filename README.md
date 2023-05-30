@@ -66,11 +66,18 @@ Contributions to Alarm Block are welcome! If you find any bugs or have suggestio
 
 MIT License
 
-## Acknowledgements
-
-[Mention any external libraries, resources, or individuals you want to acknowledge]
-
 ## Contact
 
-[Provide your contact information or a way for users to reach out]
+Email:
+ ```
+ abrammer89@gmail.com 
+ ```
+LinkendIn:
+```
+https://www.linkedin.com/in/adambrammer/
+```
+Portfolio
+```
+adambrammer.com
+```
 
