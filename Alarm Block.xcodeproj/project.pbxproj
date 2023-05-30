@@ -8,12 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		FC2C40782A25449A000BD499 /* Alarm_BlockApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40772A25449A000BD499 /* Alarm_BlockApp.swift */; };
-		FC2C407A2A25449A000BD499 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40792A25449A000BD499 /* ContentView.swift */; };
 		FC2C407C2A25449B000BD499 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2C407B2A25449B000BD499 /* Assets.xcassets */; };
 		FC2C40802A25449B000BD499 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FC2C407F2A25449B000BD499 /* Preview Assets.xcassets */; };
 		FC2C408A2A25449C000BD499 /* Alarm_BlockTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40892A25449C000BD499 /* Alarm_BlockTests.swift */; };
 		FC2C40942A25449C000BD499 /* Alarm_BlockUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40932A25449C000BD499 /* Alarm_BlockUITests.swift */; };
 		FC2C40962A25449C000BD499 /* Alarm_BlockUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40952A25449C000BD499 /* Alarm_BlockUITestsLaunchTests.swift */; };
+		FC2C40A32A256975000BD499 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FC2C40A22A256975000BD499 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,7 +36,6 @@
 /* Begin PBXFileReference section */
 		FC2C40742A25449A000BD499 /* Alarm Block.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Alarm Block.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2C40772A25449A000BD499 /* Alarm_BlockApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm_BlockApp.swift; sourceTree = "<group>"; };
-		FC2C40792A25449A000BD499 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		FC2C407B2A25449B000BD499 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		FC2C407D2A25449B000BD499 /* Alarm_Block.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = Alarm_Block.entitlements; sourceTree = "<group>"; };
 		FC2C407F2A25449B000BD499 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -45,6 +44,7 @@
 		FC2C408F2A25449C000BD499 /* Alarm BlockUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Alarm BlockUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FC2C40932A25449C000BD499 /* Alarm_BlockUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm_BlockUITests.swift; sourceTree = "<group>"; };
 		FC2C40952A25449C000BD499 /* Alarm_BlockUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Alarm_BlockUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		FC2C40A22A256975000BD499 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -96,7 +96,7 @@
 			isa = PBXGroup;
 			children = (
 				FC2C40772A25449A000BD499 /* Alarm_BlockApp.swift */,
-				FC2C40792A25449A000BD499 /* ContentView.swift */,
+				FC2C40A22A256975000BD499 /* ContentView.swift */,
 				FC2C407B2A25449B000BD499 /* Assets.xcassets */,
 				FC2C407D2A25449B000BD499 /* Alarm_Block.entitlements */,
 				FC2C407E2A25449B000BD499 /* Preview Content */,
@@ -259,7 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FC2C407A2A25449A000BD499 /* ContentView.swift in Sources */,
+				FC2C40A32A256975000BD499 /* ContentView.swift in Sources */,
 				FC2C40782A25449A000BD499 /* Alarm_BlockApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -415,6 +415,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Alarm Block/Preview Content\"";
+				DEVELOPMENT_TEAM = Y5S4PPRZF8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -423,10 +424,10 @@
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
@@ -451,6 +452,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_ASSET_PATHS = "\"Alarm Block/Preview Content\"";
+				DEVELOPMENT_TEAM = Y5S4PPRZF8;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				"INFOPLIST_KEY_UIApplicationSceneManifest_Generation[sdk=iphoneos*]" = YES;
@@ -459,10 +461,10 @@
 				"INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents[sdk=iphonesimulator*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphoneos*]" = YES;
 				"INFOPLIST_KEY_UILaunchScreen_Generation[sdk=iphonesimulator*]" = YES;
+				INFOPLIST_KEY_UIStatusBarStyle = "";
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphoneos*]" = UIStatusBarStyleDefault;
 				"INFOPLIST_KEY_UIStatusBarStyle[sdk=iphonesimulator*]" = UIStatusBarStyleDefault;
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
-				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations = UIInterfaceOrientationPortrait;
 				IPHONEOS_DEPLOYMENT_TARGET = 16.4;
 				LD_RUNPATH_SEARCH_PATHS = "@executable_path/Frameworks";
 				"LD_RUNPATH_SEARCH_PATHS[sdk=macosx*]" = "@executable_path/../Frameworks";
