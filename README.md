@@ -1,6 +1,6 @@
 # Alarm Block
 
-Alarm Block is a simple alarm management app that allows you to create, edit, and manage alarms with customizable settings. I want to create something simple since I've never used Xcode or created an iOS app. I wanted to see how much I could accomplish just using Chat GPT-3.5/4. To me not knowing anything about creating iOS app or using Xcode, having Chat GPT here with me was like working with someone from a team and asking them questions when I needed to. I really enjoyed this process of using Chat GPT to help me learn. I will continue using Chat GPT to learn more in my field, as I just finished Full Stack Engineering Bootcamp on May 2023.
+Alarm Block is a simple alarm management app that allows you to create, edit, and manage alarms with customizable settings. I want to create something simple since I've never used Xcode and Swift or created an iOS app. I wanted to see how much I could accomplish just using Chat GPT-3.5/4. To me not knowing anything about creating iOS app or using Xcode, having Chat GPT here with me was like working with someone from a team and asking them questions when I needed to. I really enjoyed this process of using Chat GPT to help me learn. I will continue using Chat GPT to learn more in my field, as I just finished Full Stack Engineering Bootcamp on May 2023.
 
 ## Features
 
